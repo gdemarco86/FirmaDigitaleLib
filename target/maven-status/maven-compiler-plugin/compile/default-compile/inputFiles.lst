@@ -1,0 +1,17 @@
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\forms\DSSPrivateKeySelectionForm.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\sign\CadesPKCS11Signer.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\test\MainTester.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\exceptions\PKCSException.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\sign\AbstractPKCS11Signer.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\sign\ISigner.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\exceptions\IncorrectPinException.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\exceptions\NotValidDLLException.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\sign\AbstractSigner.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\exceptions\DocumentRetrievingException.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\models\GenericParameters.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\models\PKCS11Parameters.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\test\MyPkcs11SignatureToken.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\documents\IDocumentRetriever.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\models\SignParameters.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\documents\FileSystemDocumentRetriever.java
+C:\Progetti\FirmaDigitale\FirmaDigitaleLib\src\main\java\it\gpj\fdl\models\SignResult.java
