@@ -3,6 +3,7 @@ Library for Digital Signature based on the DSS European Lib
 
 Usage example:
 
+```java
 // Istanzio un document retriever per ottenere un doc dal file system
 FileSystemDocumentRetriever docRetriever = 
         new FileSystemDocumentRetriever("TestXmlDocument.xml");
@@ -13,7 +14,7 @@ SignParameters signParams =
         new SignParameters(SignatureLevel.CAdES_BASELINE_B, SignaturePackaging.ENVELOPING, DigestAlgorithm.SHA256);
 signParams.addAdditionalParameter(SignParameters.KnownAdditionalParameters.SignWithExpiredCertificate, true);
 
-// Istanzio il signer per la firma Cades con PCKS11
+// Istanzio il signer per la firma Cades con PKCS11
 CadesPKCS11Signer signer = new CadesPKCS11Signer(docRetriever,pcksParams);
 try {
     // Firmo
@@ -36,3 +37,4 @@ try {
 } catch (DocumentRetrievingException ex) {
     ex.printStackTrace();
 }
+```
