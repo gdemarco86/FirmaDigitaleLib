@@ -8,7 +8,7 @@ Usage example:
 FileSystemDocumentRetriever docRetriever = 
         new FileSystemDocumentRetriever("TestXmlDocument.xml");
 // Istanzio parametri per PKCS11 passando il PIN
-PKCS11Parameters pcksParams = new PKCS11Parameters("24061986");
+PKCS11Parameters pcksParams = new PKCS11Parameters("12345678");
 // Istanzio i parametri per la firma
 SignParameters signParams = 
         new SignParameters(SignatureLevel.CAdES_BASELINE_B, SignaturePackaging.ENVELOPING, DigestAlgorithm.SHA256);
